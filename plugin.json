@@ -2,15 +2,17 @@
   "metadata": {
     "name": "UU Kanshu CC",
     "author": "Của Tôi",
-    "version": 1,
+    "version": 2,
     "source": "https://uukanshu.cc",
-    "type": "novel",
-    "description": "Nguồn đọc truyện từ uukanshu.cc"
+    "regexp": "uukanshu\\.cc",
+    "description": "Nguồn đọc truyện từ uukanshu.cc",
+    "locale": "vi_VN",
+    "type": "novel"
   },
   "script": {
     "detail": "detail.js",
-    "chapter": "chapter.js",
-    "content": "content.js",
+    "toc": "chapter.js",
+    "chap": "content.js",
     "search": "search.js"
   }
 }
