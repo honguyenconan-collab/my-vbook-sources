@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "name": "UU Kanshu CC",
+    "author": "Của Tôi",
+    "version": 1,
+    "source": "https://uukanshu.cc",
+    "type": "novel",
+    "description": "Nguồn đọc truyện từ uukanshu.cc"
+  },
+  "script": {
+    "detail": "detail.js",
+    "chapter": "chapter.js",
+    "content": "content.js",
+    "search": "search.js"
+  }
+}
